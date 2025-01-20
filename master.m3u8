@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:URI="http://192.168.1.33:8000/content/audio_tur.m3u8",NAME="360p",TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="tur",NAME="Turkish",DEFAULT=NO,AUTOSELECT=YES
+#EXT-X-MEDIA:URI="https://raw.githubusercontent.com/thisguyisxenon/prenss1b1/refs/heads/main/content/audio_tur.m3u8",NAME="360p",TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="tur",NAME="Turkish",DEFAULT=NO,AUTOSELECT=YES
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=276000,RESOLUTION=640x360,CODECS="avc1.4D4015,mp4a.40.2",AUDIO="audio"
-http://192.168.1.33:8000/content/360p.m3u8
+https://raw.githubusercontent.com/thisguyisxenon/prenss1b1/refs/heads/main/content/360p.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720,NAME="720p",CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio"
-http://192.168.1.33:8000/content/720p.m3u8
+https://raw.githubusercontent.com/thisguyisxenon/prenss1b1/refs/heads/main/content/720p.m3u8
